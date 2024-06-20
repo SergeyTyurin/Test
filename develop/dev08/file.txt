@@ -1,0 +1,15 @@
+    PID TTY      STAT   TIME COMMAND
+   1434 ?        Ss     0:00 systemd
+   1435 ?        S      0:00 (sd-pam)
+   1535 ?        S      0:52 sshd
+   1536 ?        Ss     0:00 bash
+   1555 ?        Sl     0:14 code-dc96b837cf
+   1585 ?        S      0:00 sh
+   1589 ?        Sl     0:15 node
+   1614 ?        Sl     0:03 node
+   1622 ?        Sl     1:00 node
+   1637 ?        Sl     0:19 node
+   1675 pts/0    Ss     0:00 bash
+   1719 ?        Sl     0:58 gopls
+   8229 ?        S      0:00 sleep
+   8243 pts/0    R+     0:00 ps
